@@ -1,7 +1,7 @@
 # Final-Projecet
 for the final project.
 
-ARTG 
+ARTG 120
 
 DUE 6/4 by 11:59PM
 
